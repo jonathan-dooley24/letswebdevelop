@@ -1,3 +1,0 @@
-# letswebdevelop
-
-Hello World
