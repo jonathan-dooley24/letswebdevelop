@@ -1,5 +1,11 @@
 .header {
-  background-color: purple;
+  background-color: blueviolet;
+  
+  color: whitesmoke;
+  text-align: center;
+  font-family: fantasy;
+  font-size: xx-large;
+  
 }
 
 .div1 {
