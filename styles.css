@@ -1,32 +1,54 @@
 .header {
-    
+  
+  position: sticky;
+  position: -webkit-sticky; /* For Safari */
+  width: 100vw;
+  top: 0;
+  border-top:   5px transparent white;
+  border-right: 5px transparent white;
+  border-left:  5px transparent white;
+  padding: 20px 10px;
+
   background-color: blueviolet;
 
 }
 
-#header_home {
+#header_logo {
+  margin-left: 1vw;
+  margin-right: 1vw;
+  width: 8vw;
+  min-width: 50px;
+  max-width: 200px;
+}
+
+#header_title {
 
   text-decoration: none;
   
-  color: whitesmoke;
-  text-align: center;
-  font-family: fantasy;
-  font-size: xx-large;
+  padding: 2vw 2vw;
 
+  color: whitesmoke;
+  font-family: fantasy;
+  font-size: 4vw;
+  
 }
 
 .div1 {
   /*Any div1 css here*/
+  color: green;
 }
 
 .div2 {
   /*Any div2 css here*/
+  color: red;
 }
 
 .div3 {
   /*Any div3 css here*/
+  color: blue;
 }
 
 .footer {
   /*Any footer css here*/
+  color: purple;
 }
