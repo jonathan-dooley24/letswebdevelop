@@ -1,11 +1,18 @@
 .header {
+    
   background-color: blueviolet;
+
+}
+
+#header_home {
+
+  text-decoration: none;
   
   color: whitesmoke;
   text-align: center;
   font-family: fantasy;
   font-size: xx-large;
-  
+
 }
 
 .div1 {
