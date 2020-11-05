@@ -69,11 +69,11 @@
 ******************************************************************************/
 
 .footer {
-  background-color: blueviolet; // Copied off stthomas.edu footer
+  background-color: blueviolet; /* Copied off stthomas.edu footer */
 }
 
 .footer p {
-  color: #f5f5f5; // Copied off stthomas.edu footer
+  color: #f5f5f5; /* Copied off stthomas.edu footer */
   display: inline-block;
   white-space: pre-line;
   font-family: Arial, sans-serif;
@@ -94,7 +94,7 @@
 }
 
 .footer a:hover {
-  color: #126195; // Copied off stthomas.edu footer
+  color: #126195; /* Copied off stthomas.edu footer */
   cursor: pointer;
   text-decoration: underline;
 }
