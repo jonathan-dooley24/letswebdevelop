@@ -1,0 +1,25 @@
+Site In General:
+• Structure and add @media queries to the code so that the site as a whole and individuals sections/divs will be responsive.
+• Rethink and simplify the total amount of pages we need and what those pages will contain.
+• Possibly create a new logo, unless the one being used is tradition.
+• Once media queries are added, have the nav respond to smaller devices by switching to a hamburger style.
+• Decide whether the nav/header should always be visible (even when scrolling down) or if it should hide and only be visible at the tops of pages.
+• Add hover effects to nav pages in the header and the social icons in the footer.
+• Make the page title centered L and R between the right end of the logo and the right end of the page.
+• Develop, add content, and style the remaining pages as well as the user account/profile pages (if needed)
+
+How To Join:
+• Take new photos that can be used in place of the ones that are currently on the page (they were taken from UST’s CS Degree page).
+• Reiterate/Add the content that is currently on the Tommie Link UST CS Club page such as: current officers, meetings’ schedules, brief description of what the club is about, etc...
+• Possibly rename this tab/page to Membership and incorporate multiple pages into one.
+
+Newsletter:
+• Determine how that content is being created/managed.
+• If it could simply be managed through the website, then make structural changes accordingly.
+• If it is going to be managed through Luca’s (GitHub io email) site, then the iframe itself should be restyled/resized to fit the end responsive design.
+
+Events:
+• The Twitter feed should be restyled/resized to fit the end responsive design. And this page should potentially be a landing page that has three separate links/paths you can take: Events, Meetings, Projects. Events reference the upcoming events with speakers, etc... Meetings reference the current schedules for CS Club meetings as a whole, and the current schedules for individual project/group meetings, etc... possibly there could be a way to book a meeting with specific people or you can create a poll, asking for an additional meeting on a specific date and if am enough people agree, then it is scheduled, etc... Projects should reference the current projects/groups that members can join, with descriptions of the projects, members who have joined, role assignments, etc... The amount of projects available should be increased.
+
+About Us:
+• Reference the history of the club, founder, list of projects/contributions/fundraisers/impact that the club has made over the years, general contact info, map and address of the school, social links, zoom link, number of current officers and members (scraped off Tommie Link), etc...
